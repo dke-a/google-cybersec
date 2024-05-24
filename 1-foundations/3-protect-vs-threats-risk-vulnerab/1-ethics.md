@@ -1,4 +1,4 @@
-# Ethics in Cybersecurity
+## Ethics in Cybersecurity
 
 In security, new technologies present new challenges. For every new security incident or risk, the right or wrong decision isn't always clear.
 
